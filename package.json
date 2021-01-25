@@ -1,0 +1,22 @@
+{
+  "name": "story-creation-api",
+  "version": "1.0.1",
+  "description": "This is a api to build a story out of dynamic images",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error:no test specified\\\"&& exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poulami95/story-api-creation.git"
+  },
+  "homepage": "https://github.com/poulami95/story-api-creation#Readme",
+  "bugs": {
+    "url": "https://github.com/poulami95/story-api-creation/issues"
+  },
+  "author": "poulami saha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
